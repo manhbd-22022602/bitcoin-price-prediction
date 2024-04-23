@@ -1,2 +1,1 @@
-# btc-price-prediction
-Forecasting Bitcoin Price and pratice some time-series feature engineering
+Go to [link](https://www.coingecko.com/en/coins/bitcoin/historical_data) to download data
